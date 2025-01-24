@@ -1,4 +1,9 @@
 hello world
 maven project
 
+<<<<<<< HEAD
 java programing
+=======
+java programming
+happy learning
+>>>>>>> de128a97173daf3841e0df1a62fdcab044640c75
